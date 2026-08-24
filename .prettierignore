@@ -5,3 +5,5 @@ coverage
 .expo
 supabase/.temp
 pnpm-lock.yaml
+
+.nvmrc
